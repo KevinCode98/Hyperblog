@@ -15,3 +15,5 @@ quiero hacer un cambio para mandarlo al master en GITHUB
 SALUDOS! 
 
 primer push con el raspberry
+
+quiero que sirva mi llave ssh :,c
