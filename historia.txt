@@ -13,3 +13,5 @@ Me gustria trabajar algun día en Amazon :3
 quiero hacer un cambio para mandarlo al master en GITHUB 
 
 SALUDOS! 
+
+primer push con el raspberry
