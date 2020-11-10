@@ -16,4 +16,4 @@ SALUDOS!
 
 primer push con el raspberry
 
-quiero que sirva mi llave ssh :,c
+Hola un nuevo commit desde el rasberry :3 que tengo tiempo sin modificarlo :D 
